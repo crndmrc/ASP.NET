@@ -1,0 +1,6 @@
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\ASP.NET\SQL\bin\Debug\SQL.dll
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\ASP.NET\SQL\bin\Debug\SQL.pdb
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\ASP.NET\SQL\obj\Debug\SQL.csproj.AssemblyReference.cache
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\ASP.NET\SQL\obj\Debug\SQL.csproj.CoreCompileInputs.cache
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\ASP.NET\SQL\obj\Debug\SQL.dll
+C:\Users\ISKUR\Desktop\ERP VE VERİ ANALİZİ\WİNDOWS FORM\ASP.NET\SQL\obj\Debug\SQL.pdb

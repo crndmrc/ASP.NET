@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eb7051f7-4603-4840-ab4d-d44f5c489125": {
+      "ProjectGuid": "eb7051f7-4603-4840-ab4d-d44f5c489125",
+      "DisplayName": "ASP.NET",
+      "ColorIndex": 0
+    },
+    "dc7be6ea-23a8-4c4e-92ad-2d6a5c4f8b78": {
+      "ProjectGuid": "dc7be6ea-23a8-4c4e-92ad-2d6a5c4f8b78",
+      "DisplayName": "DAL",
+      "ColorIndex": 1
+    },
+    "538a354d-f2e8-4cde-a143-180a718e17f0": {
+      "ProjectGuid": "538a354d-f2e8-4cde-a143-180a718e17f0",
+      "DisplayName": "SQL",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
